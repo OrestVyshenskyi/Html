@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    background: bisque;
+    color: black;
+}
+
+h2{
+    text-align: center;
+    background: aquamarine;
+    color: brown;
+}
+
+p{
+    background: aliceblue;
+    color: darkred;
+}
+
+ul{
+    background: azure;
+    color: blue;
+}
