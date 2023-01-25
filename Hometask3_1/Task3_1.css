@@ -11,8 +11,9 @@
     height: 100px;
     background: white;
     display: flex;
+    justify-content: right;
     align-items: center;
-    position: relative;
+    margin: 0 0 0 -30px;
 }
 
 .block2{
@@ -151,14 +152,7 @@
 html > body{
     margin: 0;
 }
-.icon1{
-    position: relative;
-    left: 1100px;
-}
-.icon2{
-    position: relative;
-    left: 1020px;
-}
+
 .icon4{
     position: relative;
     top: 28px;
@@ -180,4 +174,11 @@ html > body{
 }
 .name_site:hover{
     background: #229d6e;
+}
+.icon12{
+    width: 70px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
