@@ -148,6 +148,11 @@
     position: absolute;
     left: 80px;
     transition: 300ms;
+    color: #042d5e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
 }
 html > body{
     margin: 0;
@@ -173,7 +178,8 @@ html > body{
     background: silver;
 }
 .name_site:hover{
-    background: #229d6e;
+    background: #ffffff;
+    color: black;
 }
 .icon12{
     width: 70px;
@@ -182,3 +188,4 @@ html > body{
     justify-content: space-between;
     align-items: center;
 }
+
